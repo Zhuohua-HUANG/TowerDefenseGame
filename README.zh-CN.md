@@ -1,5 +1,8 @@
 # <div align="center">塔防游戏</div>
-
+<div align="center">
+<img src="https://img.shields.io/badge/build-passing-brightgreen"/>
+<img src="https://img.shields.io/badge/Unity3D-2021.3.14f1-blue"/>
+</div>
 <div align="center">
 
   [English](README.md) | [简体中文](README.zh-CN.md)
