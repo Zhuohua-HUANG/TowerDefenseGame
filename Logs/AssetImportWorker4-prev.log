@@ -1,0 +1,233 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.14f1 (eee1884e7226) revision 15655304'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16021 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+E:/a_Learning/unity_project/TowerDefenseGame
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+1264
+Successfully changed project path to: E:/a_Learning/unity_project/TowerDefenseGame
+E:/a_Learning/unity_project/TowerDefenseGame
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 65.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.14f1 (eee1884e7226)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/a_Learning/unity_project/TowerDefenseGame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   NVIDIA
+    VRAM:     3976 MB
+    Driver:   31.0.15.2698
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56144
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004046 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 61.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.517 seconds
+Domain Reload Profiling:
+	ReloadAssembly (517ms)
+		BeginReloadAssembly (61ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (370ms)
+			LoadAssemblies (60ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (92ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (213ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (62ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (103ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003846 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\a_Learning\unity_project\TowerDefenseGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\a_Learning\unity_project\TowerDefenseGame\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Domain Reload Profiling:
+	ReloadAssembly (937ms)
+		BeginReloadAssembly (91ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (760ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (298ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (309ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (202ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (56.8 KB). Loaded Objects now: 3847.
+Memory consumption went from 127.1 MB to 127.1 MB.
+Total: 3.310200 ms (FindLiveObjects: 0.231800 ms CreateObjectMapping: 0.093500 ms MarkObjects: 2.879400 ms  DeleteObjects: 0.104000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6150.162108 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures
+  artifactKey: Guid(23ba7887d6264db47b39c47573d912d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures using Guid(23ba7887d6264db47b39c47573d912d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a79950ce80181e3f5b696278617f369') in 0.009954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018918 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/reflection.tif
+  artifactKey: Guid(a663b984f9a21c84480b6ccbf9516e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/reflection.tif using Guid(a663b984f9a21c84480b6ccbf9516e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e699b93072285b7ca4bb85ea05199baf') in 0.229212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Plasma.tif
+  artifactKey: Guid(b34825013764efe44b2440d6154e6289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Plasma.tif using Guid(b34825013764efe44b2440d6154e6289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5835d5263f8e23d7e26665e64e2c6d3b') in 0.101351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_machinegun.tif
+  artifactKey: Guid(0bd1738bb33164346a81c91008d5d094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_machinegun.tif using Guid(0bd1738bb33164346a81c91008d5d094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb59473c1f883ea91a26a75276707f2f') in 0.072724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Laserguns.tif
+  artifactKey: Guid(804bcc6c90d551f4c82c3681dfd24077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Laserguns.tif using Guid(804bcc6c90d551f4c82c3681dfd24077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16d3041e2c0834aaf875c224cd598c6') in 0.042305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Tesla.tif
+  artifactKey: Guid(1041b1134bc40f94db2d4e16e2d36c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_Tesla.tif using Guid(1041b1134bc40f94db2d4e16e2d36c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a868c9013c04a4bae1bb78578d0c6e30') in 0.280868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_fire_acid_glow.tif
+  artifactKey: Guid(86b1b616162f66b429b3bd5ed4e2e469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Textures/Tow_fire_acid_glow.tif using Guid(86b1b616162f66b429b3bd5ed4e2e469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b388d6c0d14c7237a8fc512a2b5ce78') in 0.601258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.217945 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Mortar3.fbx
+  artifactKey: Guid(5719487e38f9b2d4c933083e45d1552f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Mortar3.fbx using Guid(5719487e38f9b2d4c933083e45d1552f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bf54745b06d2f2f900c5c259d885f6') in 0.381833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.948826 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Radar2.fbx
+  artifactKey: Guid(576fb2d42767fe54eb7a7cad3e4cbcb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Radar2.fbx using Guid(576fb2d42767fe54eb7a7cad3e4cbcb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a21d5d45848f7e4136fbe325cc096f4') in 0.115227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Rocket2_2.fbx
+  artifactKey: Guid(40e73417bcf5f3a48b870c75ef18378c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Rocket2_2.fbx using Guid(40e73417bcf5f3a48b870c75ef18378c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe61cbb3322071c1954910aa318cc1e') in 0.175402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Tesla2.fbx
+  artifactKey: Guid(31c65b15e047d814188d6e9519a9b3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MOBA and Tower Defense/Prefabs_Turrets/_origin/Models/Tow_Tesla2.fbx using Guid(31c65b15e047d814188d6e9519a9b3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0aba5841ed532130f646491594bd26f') in 0.164865 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
