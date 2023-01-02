@@ -11,11 +11,11 @@
 
 </div>
 
-## <div>Features<div/>
+## <div>游戏特性<div/>
   
-* Destroy the monster army before they arrive the destination;
+* 请在怪物到达终点前击败他们;
   
-* Click on tower bases to create different types of towers to attack monsters;
+* 点击塔基创建可以攻击怪物的炮塔;
   
-* Towers can be sold;
+* 炮塔可以被出售;
   
