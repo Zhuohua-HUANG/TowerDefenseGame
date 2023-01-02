@@ -10,3 +10,10 @@ A tower defence game based on Unity3D
   </p>
 
 </div>
+
+## <div align="center">Features<div/>
+* Destroy the monster army before they arrive the destination;
+  
+* Click on tower bases to create different types of towers to attack monsters;
+  
+* Towers can be sold;
