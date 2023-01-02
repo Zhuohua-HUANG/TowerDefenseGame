@@ -11,7 +11,7 @@
 
 </div>
 
-## <div>游戏特性<div/>
+## <div align="center">游戏特性<div/>
   
 * 请在怪物到达终点前击败他们;
   
