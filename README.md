@@ -13,7 +13,7 @@ A tower defence game based on Unity3D. Made by Zhuohua Huang.
   </p>
 </div>
 
-## Features
+## <div align="center">Features</div>
 * Destroy the monster army before they arrive the destination;
   
 * Click on tower bases to create different types of towers to attack monsters;
